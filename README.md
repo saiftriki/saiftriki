@@ -11,10 +11,6 @@ Hi there!
   </p>
 I'm Saifeddine Triki, Computer Science student 💻</b>
 
-
-
-
-
 <!-- SVG Top Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -23,11 +19,11 @@ I'm Saifeddine Triki, Computer Science student 💻</b>
 <!-- About Me Section with GIF -->
 <h2 align="left">👨‍💻 About Me</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <td >
+    <td>
       <ul>
-        <li>🏫 I am a <code>Computer Science student</code> at the <strong>Faculty of Sciences of Sfax</strong></li>
+         <li>🏫 I am a <code>Computer Science student</code> at the <strong>Faculty of Sciences of Sfax</strong></li>
         <li>🔭 Currently working on <code>personal web development projects</code></li>
         <li>💡 Eager to learn <strong>software development</strong> and modern <strong>frameworks</strong></li>
         <li>🤔 Actively seeking <strong>job opportunities</strong> — <a href="https://drive.google.com/file/d/cv" target="_blank"><strong>View My Resume</strong></a></li>
@@ -37,10 +33,11 @@ I'm Saifeddine Triki, Computer Science student 💻</b>
     </td>
     <td>
       <!-- <img src="https://i.postimg.cc/bwbnP6vx/My-work.gif" alt="Coding GIF" width="300"> -->
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400">
     </td>
   </tr>
 </table>
+
 
 <!-- Skills Section -->
 <h2 align="left">🛠️ Technologies and Tools I Use</h2>
