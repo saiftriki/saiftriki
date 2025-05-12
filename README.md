@@ -33,7 +33,7 @@ I'm Saifeddine Triki, Computer Science student 💻</b>
     </td>
     <td>
       <!-- <img src="https://i.postimg.cc/bwbnP6vx/My-work.gif" alt="Coding GIF" width="300"> -->
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="290">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300">
     </td>
   </tr>
 </table>
