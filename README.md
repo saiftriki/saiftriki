@@ -23,7 +23,7 @@ I'm Saifeddine Triki, Computer Science student 💻</b>
 <!-- About Me Section with GIF -->
 <h2 align="left">👨‍💻 About Me</h2>
 
-<table >
+<table>
   <tr>
     <td >
       <ul>
@@ -36,9 +36,8 @@ I'm Saifeddine Triki, Computer Science student 💻</b>
       </ul>
     </td>
     <td>
-      <!--<img src="https://i.postimg.cc/bwbnP6vx/My-work.gif" alt="Coding GIF" width="300"> -->
-      <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" alt="Coding GIF" width="300">
-      
+      <!-- <img src="https://i.postimg.cc/bwbnP6vx/My-work.gif" alt="Coding GIF" width="300"> -->
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300">
     </td>
   </tr>
 </table>
