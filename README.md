@@ -1,7 +1,16 @@
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Saifeddine+👋;Aspiring+Software+Engineer;Web+Development+Enthusiast;Always+learning+something+new!&center=true&width=500&height=45" alt="Typing Animation">
-</p>
+<div align="center" width="50">
+
+<img src="https://github.com/saiftriki/saiftriki/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
+
+
+</div>
+
+
+
+
+
 
 <!-- SVG Top Divider -->
 <p align="center">
