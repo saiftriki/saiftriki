@@ -28,7 +28,7 @@ I'm Saifeddine Triki, Computer Science student 💻</b>
         <li>💡 Eager to learn <strong>software development</strong> and modern <strong>frameworks</strong></li>
         <li>🤔 Actively seeking <strong>job opportunities</strong> — <a href="https://drive.google.com/file/d/cv" target="_blank"><strong>View My Resume</strong></a></li>
         <li>🤓 Constantly learning <strong>new technologies</strong> to stay up-to-date</li>
-        <li>⚡ Fun fact: <code>I love coding and building cool, functional projects!</code></li>
+        <li>⚡ Fun fact: <code>I love coding and building cool projects!</code></li>
       </ul>
     </td>
     <td>
