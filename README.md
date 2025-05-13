@@ -5,17 +5,20 @@
 
 
 </div>
-<b><p>
+<b>
+  
+  <h2 align="center">
 Hi there!
 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-  </p>
+  <br>
 I'm Saifeddine Triki, Computer Science student 💻</b>
+</h2> 
 
-<!-- SVG Top Divider -->
+<!-- SVG Top Divider 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
-
+-->
 <!-- About Me Section with GIF -->
 <h2 align="left">👨‍💻 About Me</h2>
 
