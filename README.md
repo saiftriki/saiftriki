@@ -62,7 +62,8 @@ I'm Saifeddine Triki, Computer Science student 💻</b>
   📧 Email: <a href="mailto:saiftriki17@gmail.com"><strong>saiftriki17@gmail.com</strong></a>
 </p>
 
-<!-- SVG Bottom Divider -->
+<!-- SVG Bottom Divider 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 </p>
+-->
