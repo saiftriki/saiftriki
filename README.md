@@ -29,7 +29,6 @@
 - Creating robust backends with **Node.js** and **Express**
 - Working with **MongoDB** for database solutions
 
-📄 **[View My Resume](https://drive.google.com/file/d/1gWpWqRwzok_l6LeJBD6vYMX5k3HeJKJr/view)**
 
 </td>
 <td width="50%">
