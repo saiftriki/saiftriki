@@ -46,12 +46,11 @@
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,figma" alt="Frontend Skills" />
 </p>
 
 ### Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="48" height="48"/>
 </p>
 
@@ -62,7 +61,7 @@
 
 ### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,gcp" alt="Database & Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git,gcp" alt="Database & Tools" />
 </p>
 
 ### Programming Languages
