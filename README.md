@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me
 
 <table>
-  <tr>
-    <td width="60%">
-      
+<tr>
+<td width="50%">
+
 🚀 **Junior Developer** passionate about creating innovative web solutions  
 🎓 **Computer Science Graduate** from Faculty of Sciences of Sfax  
 💼 Currently working on **full-stack web applications**  
@@ -31,11 +31,13 @@
 
 📄 **[View My Resume](https://drive.google.com/file/d/1gWpWqRwzok_l6LeJBD6vYMX5k3HeJKJr/view)**
 
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="100%">
-    </td>
-  </tr>
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400">
+
+</td>
+</tr>
 </table>
 
 ---
