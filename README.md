@@ -45,7 +45,7 @@
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,figma" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="Frontend Skills" />
 </p>
 
 ### Mobile Development
