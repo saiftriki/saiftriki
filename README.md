@@ -1,10 +1,9 @@
 <div align="center">
-  
+
 # Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+## I'm Saifeddine Triki — Full-Stack Developer 💻
 
-## I'm Saifeddine Triki, Junior Developer 💻
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Full+Stack+Developer;Always+learning+new+things;Building+amazing+projects!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js;Always+learning+new+things!" alt="Typing SVG" />
 
 </div>
 
@@ -12,60 +11,46 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-🚀 **Junior Developer** passionate about creating innovative web solutions  
-🎓 **Computer Science Graduate** from Faculty of Sciences of Sfax  
-💼 Currently working on **full-stack web applications**  
-🌱 Specializing in **React ecosystem** and **modern JavaScript frameworks**  
-🔍 Actively seeking **new opportunities** to grow and contribute  
-⚡ **Fun fact:** I turn coffee into code and bugs into features!  
+🎓 **CS student** at Faculty of Sciences of Sfax  
+🌐 Passionate about **full-stack web & mobile development**  
+🌱 Deep-diving into the **React ecosystem** and **modern JavaScript frameworks**  
+📱 Building cross-platform apps with **React Native**  
+⚡ **Fun fact:** I turn coffee into code — and bugs into features!
 
 ### 🎯 Current Focus
-- Building responsive web applications with **React** and **Next.js**
+
+- Building responsive web apps with **React** and **Next.js**
 - Developing mobile apps with **React Native**
-- Creating robust backends with **Node.js** and **Express**
-- Working with **MongoDB** for database solutions
-
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400">
-
-</td>
-</tr>
-</table>
+- Crafting backends with **Node.js**, **Express** & **PHP**
+- Working with **MongoDB** and **MySQL** for data solutions
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend Development
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="Frontend Skills" />
 </p>
 
-### Mobile Development
+### Mobile
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="48" height="48"/>
 </p>
 
-### Backend Development
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" alt="Backend Skills" />
 </p>
 
-### Database & Tools
+### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git,gcp" alt="Database & Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git" alt="Databases & Tools" />
 </p>
 
-### Programming Languages
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,php,c" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,python,php,c,java" alt="Programming Languages" />
 </p>
 
 ---
@@ -83,35 +68,21 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 **Web App** | Full-stack application | React, Node.js, MongoDB |
-| 📱 **Mobile App** | Cross-platform mobile app | React Native, Express |
-| 🔧 **API Service** | RESTful API backend | Node.js, Express, MongoDB |
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-saiftriki17%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiftriki17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiftriki)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiftriki)
+
+[![Email](https://img.shields.io/badge/Email-saifeddine.tk%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifeddine.tk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saifeddine_Triki-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifeddinetriki)
+[![GitHub](https://img.shields.io/badge/GitHub-saiftriki-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiftriki)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <img src="https://komarev.com/ghpvc/?username=saiftriki&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
